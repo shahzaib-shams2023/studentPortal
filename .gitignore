@@ -1,0 +1,22 @@
+# Compiled code and build artifacts
+*.o
+*.pyc
+/bin/
+/out/
+
+# Dependency caches
+node_modules/
+vendor/
+
+# Log files and temporary files
+*.log
+*.tmp
+
+# IDE/editor specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Secrets and personal configurations
+.env
+config.local.php

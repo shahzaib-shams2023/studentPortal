@@ -1,0 +1,36 @@
+[04-Oct-2024 17:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/mail.php on line 16
+[08-Oct-2024 05:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/cache.php on line 21
+[25-May-2025 08:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/azfayhmp/aptechgarden.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/view.php on line 17
+[25-May-2025 08:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/session.php on line 21
+[25-May-2025 08:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/filesystems.php on line 16
+[25-May-2025 08:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/services.php on line 18
+[25-May-2025 08:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/mail.php on line 16
+[29-May-2025 00:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/services.php on line 18
+[26-Jun-2025 10:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/azfayhmp/aptechgarden.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/azfayhmp/aptechgarden.com/config/cache.php on line 21
